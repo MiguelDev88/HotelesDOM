@@ -15,6 +15,7 @@ public class HotelesDOM {
         byte op;
         
         System.out.println("HOLA KE ASE");
+        System.out.println("bien bien");
         try{
             Document documento  = XML.cargarXML();
             do{
