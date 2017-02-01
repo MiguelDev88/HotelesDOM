@@ -14,7 +14,7 @@ public class HotelesDOM {
         BufferedReader leer=new BufferedReader(new InputStreamReader(System.in));
         byte op;
         
-        
+        System.out.println("HOLA KE ASE");
         try{
             Document documento  = XML.cargarXML();
             do{
