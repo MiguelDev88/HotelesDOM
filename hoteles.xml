@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listaHoteles>
+   <hotel ID="12" categoría="12">
+      <nombre idioma="12">12</nombre>
+      <poblacion>12</poblacion>
+      <precio>11111111</precio>
+      <cadena>12</cadena>
+   </hotel>
+<hotel ID="666" categoría="666">
+      <nombre idioma="666">666</nombre>
+      <poblacion>666</poblacion>
+      <precio>666</precio>
+      <cadena>666</cadena>
+   </hotel>
+   <hotel ID="654" categoría="456">
+      <nombre idioma="456">456</nombre>
+      <poblacion>456</poblacion>
+      <precio>456</precio>
+      <cadena>456</cadena>
+   </hotel>
+   <hotel ID="123" categoría="124">
+      <nombre idioma="123">124</nombre>
+      <poblacion>345</poblacion>
+      <precio>546</precio>
+      <cadena>124</cadena>
+   </hotel>
+</listaHoteles>
