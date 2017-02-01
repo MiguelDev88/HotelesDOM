@@ -16,6 +16,8 @@ public class HotelesDOM {
         
         System.out.println("HOLA KE ASE");
         System.out.println("bien bien");
+        
+        System.out.println("Cambios de saul");
         try{
             Document documento  = XML.cargarXML();
             do{
